@@ -3,3 +3,6 @@ Day 2: Start Course and Practice Recreating Conda env
 Day 3: Reviewed Pandas info -> Pandas is built on NumPy and uses MatPlotLib to visualize the data
 Day 4: Reviewed Pandas series mini-course
 Day 5: Questions and Answers for both Pandas series and basics pandas
+8/12 : Practiced with fast food data
+8/13 : Practiced with fast food data
+
